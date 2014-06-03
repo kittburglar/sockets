@@ -1,0 +1,8 @@
+Server:
+1. Start server with "python server.py"
+
+Client:
+1. Observe what the port the server is on. It will state when the server starts running.
+2. Start client with "python client.py <serverName> <serverPort> <message>"
+
+
